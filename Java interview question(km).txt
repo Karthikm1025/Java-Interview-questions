@@ -1,0 +1,98 @@
+	Program to be practised for java interview
+1.Write a Java Program to reverse a string without using String inbuilt function.
+2.Write a Java Program to swap two numbers using the third variable.
+3.Write a Java Program to swap two numbers without using the third variable
+4. Write a Java Program to count the number of words in a string using HashMap.
+5) Write a Java Program to iterate HashMap using While and advance for loop.
+6) Write a Java Program to find whether a number is prime or not.
+7) Write a Java Program to find whether a string or number is palindrome or not.
+8) Write a Java Program for the Fibonacci series.
+9.Java Program to Find Odd or Even number
+10.Java Program to Find Factorial on Number
+11.Write a java program to find Armstrong number
+12.Write a java program to find number of digits in given number
+13.Write a java program to count the total number of occurrences of a given character in a string without using any loop
+14.Write a java program to find duplicate characters in a string
+15.Write a java program to reverse each word of a given string - completed
+16.Write a java program to reverse a given string with preserving the position of spaces
+17.Write code to filter duplicate elements from an array and print as a list
+18.Write a Java program to find out the first two max values from an array
+19.how to print triangular pattern
+20.how to find whether a element is present in the array or not
+21.Write a Java program to print the alphabets using for loop?
+22.find the position of an alphabets (need Practise)
+23.replace vowels with special character
+24.find number of vowels in string//
+25.. extract number from a given string and add them(Need practise)
+26 find the missing alphabet in the given string(pangram)//(Need practise)
+27. convert uppercase to lowercase vice versa without inbuilt method(Need practise)
+28.remove leading and tailing spaces without trim
+29.how to find the length of a string with or without inbuild method	
+30.Write a Java program to find the largest number?
+31.Write a Java program to compare two strings?
+32.smallest number in array
+33.reverse String with Unique Characters
+34.Add number repeatedly until it becomes a single digit 
+35 String str = "123Automation456"; extract automation alone and print 
+36.by using apache poi read and write from excel
+37 string name = "Testing" --> gniTset - change the second occurrence letter of T alone as capital
+
+this is my account no 123456789 authgfg  fgfgfg 2345 uyuyuyuy  
+
+Queries:
+doubt in finding smallest and largest number in array
+triangle pattern
+duplicates characters and words 
+
+08/feb/2024
+1. findPositionOfAlphabets - doubt in narrowing casting
+2. uppercase - casting
+3. calendar selection
+
+//span[contains(text(),'Subject')]//following-sibling::div[contains(@class,'subjects')]
+
+//div[@id='subjectsContainer']//following::div[@class='subjects-auto-complete__option css-yt9ioa-option']
+
+//div[@id='subjectsContainer']//following::div[contains(@class,'subjects') and contains(@class,'option')]
+Control shift + p = enable focus to see the options
+
+1. Sleepin(false  false)
+
+if (!weekday||vaction){   // true, false - false
+  return true;
+  
+}
+return false;
+
+1. Sleepin(true  false)
+
+if (!weekday||vaction){   // false, false - true
+  return true;
+  
+}
+return false;
+
+1. Sleepin(false  true)
+
+if (!weekday||vaction){   // true, true - true
+  return true;
+  
+}
+return false;
+
+
+
+
+String st = "karthi1025" 
+
+for (int i=0; i<st.length(); i++){
+
+if (character.isdigit(st){
+
+
+
+}
+
+}
+
+

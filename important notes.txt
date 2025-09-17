@@ -1,0 +1,32 @@
+
+The primary objective of DMP is to expose the defects at an early stage of the software development process
+
+Various Stages of Defect Management Process
+The defect management process includes several stages, which are as follows:
+
+Defect Prevention
+Deliverable Baseline
+Defect Discovery
+Defect Resolution
+Process Improvement
+Management Reporting
+
+
+
+Arun interview questions
+1.if bug comes means to whom it needs be reported
+2.In SQL how to take the even rows from the tables
+
+prototype - early version or mock up of product which is going to get delivered 
+
+stub - when we follow top down approach if the respective modules are not available yet to develop we can use this stub to stimulate the data 
+communication between the unavailable modules 
+
+driver - Drivers serve the same purpose as stubs,used during  bottom to top approach 
+
+Stubs or Drivers that simulate all features and functionality that might be shown by actual Module
+
+Sanity Testing is also called tester acceptance testing
+
+
+

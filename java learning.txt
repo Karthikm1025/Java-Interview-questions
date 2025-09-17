@@ -1,0 +1,139 @@
+Java Basics
+first need to create project and next have to create package
+
+class - collection of object 
+
+please find below main method
+
+public static void main (string [] args){
+
+}
+
+primitive Data type - int, float, double, char, string
+string - collection of char
+variables = containers which hold values
+
+derived data types - array,arraylist,string,HashMap etc..
+
+operators
+
+Arithmetic 
+relational
+logical
+incremental/decremental
+assignment 
+
+Arithmetic operators  + - * /
+
+Relational operator  == < > >= <= !=
+always return Boolean values 
+
+logical operators &  || !
+
+incremental/decremental  ++  --
+
+assignment operator - =
+
+ 
+
+a = 10   b = 20
+
+swap the values for the above variables
+
+
+
+conditional statements - if else , nested if else, switch
+
+Loops/iterative statements - 
+
+1. while loop
+2. do while loop
+3. for loop
+
+jump statements
+1. break
+2. continue
+
+
+Array - storing multiple values in to single variables or collection of elements in the same data type
+
+
+Two types of arrays
+
+1.Single dimesional 
+2.two/Multi dimensional
+
+Single Dimensional
+1. Declare an Array
+2. insert values into array
+3.Find size of an array
+4.Read values from an array
+
+syntax:
+int a[] = new int[5];
+
+a[0]=100;
+a[1]=200;
+a[2]=300;
+a[3]=400;
+
+ 
+ if we dont know the exact size of array use below syntax
+ 
+ int a[]={100,200,300,400,500,600};
+ 
+ 
+2.two/Multi dimensional
+1. Declare an Array
+2. insert values into array
+3.Find size of an array
+4.Read values from an array
+
+int a[][]=new int[3][2];
+
+a[0][0]=100;
+a[0][1]=200;
+a[1][0]=30;
+a[1][1]=40;
+a[2][0]=50;
+a[2][1]=60;
+
+if we dont know the exact size of array use below syntax
+
+int a[][]={{100,200},{200,300},{400,500}};
+
+
+String concepts
+
+String methods
+1. length
+2. concat
+3.trim
+4.char
+5.contains
+6.equal
+7.equalignorecase
+8.replace
+9.substring
+10. tolowercase
+11. uppercase
+
+
+
+
+cr and fr ? change req and feature req
+
+
+oops concepts
+
+Class - contains objects, variable & methods
+
+Example: Animal is class - dog, cat, lion are objects - attributes and behaviours of dog, cat & Lion are variables & methods
+
+
+
+
+
+
+
+

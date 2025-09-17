@@ -1,0 +1,120 @@
+
+
+1.What will be the output of the following Java program?
+1.   class comma_operator 
+2.     {
+3.         public static void main(String args[]) 
+4.         {    
+5.              int sum = 0;
+6.              for (int i = 0, j = 0; i < 5 & j < 5; ++i, j = i + 1)
+7.                  sum += i;
+8.        System.out.println(sum);
+9.         } 
+10.     }  
+
+Answer: 6
+
+
+
+What will be the output of the following Java program?
+1. class Output 
+2. {
+3.         public static void main(String args[]) 
+4.         {    
+5.            final int a=10,b=20;
+6.           while(a<b)
+7.           {
+8.  
+9.           System.out.println("Hello");
+10.           }
+11.           System.out.println("World");
+12.  
+13.         } 
+14. }   Job@mo@032221
+
+
+answers : Hello
+
+2.What will be the output of the following Java program?
+1. class Output 
+2. {
+3.         public static void main(String args[]) 
+4.         {    
+5.            final int a=10,b=20;
+6.           while(a<b)
+7.           {
+8.  
+9.           System.out.println("Hello");
+10.           }
+11.           System.out.println("World");
+12.  
+13.         } 
+14. }   
+
+Answer : compile time error
+
+
+
+3.Find the output of the following program.
+
+String str1="abcde";
+System.out.println(str1.substring(1,3));
+
+answer; bcd
+
+
+4.What will be the output of the following Java program?
+
+
+5.What will be the output of the following Java program?
+1.     class selection_statements 
+2.     {
+3.         public static void main(String args[])
+4.         {
+5.             int var1 = 5; 
+6.             int var2 = 6;
+7.             if ((var2 = 1) == var1)
+8.                 System.out.print(var2);
+9.             else 
+10.                 System.out.print(++var2);
+11.         } 
+12.     }
+
+
+answer; 1
+
+
+6.What will be the output of the following Java program?
+1. class variable_scope 
+2.     {
+3.         public static void main(String args[]) 
+4.         {
+5.             int x;
+6.             x = 5;
+7.             {
+8.          int y = 6;
+9.          System.out.print(x + " " + y);
+10.             }
+11.             System.out.println(x + " " + y);
+12.         } 
+13.     } 
+
+Answer: Compilation error
+
+
+
+1. 08/07/2022 - Appreciation received from NatWest ABC Project for working late night during production issues.
+
+2. 08/11/2022 - Appreciation received as a Hall of Fame from NatWest ABC Project for Good example for collective collaboration in completing the task on time.
+
+3. 07/07/2022 - Appreciation received as a Hall of Fame from NatWest ABC Project successful production go-live to implement the Functional Enhancement 
+
+4. 25/06/2022 - Reviewed the Evidence taken by Team members during execution. Found incomplete evidence taken by a Team member and solved it internally before it is escalated by client.
+ 
+
+
+9921347515
+
+
+
+
